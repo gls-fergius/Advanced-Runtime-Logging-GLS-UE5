@@ -39,8 +39,8 @@ Using GLS_LOG macros from GLS offers several advantages over the standard UE_LOG
 GLS_LOG supports intelligent log filtering by categories, classes, objects, and tags.
 Allows for catching logs in shipping or distribution applications.
 Here are some examples:
-**1. GLS_LOG(WorldContext, LogTemp, Warning, TEXT("An error occurred: %s"), *ErrorMessage);
-2. UGLSSubsystem::PrintStringToGLS(WorldContextObject, TEXT("Some message here"), TEXT("MyCustomCategory"), EGLSLogType::Display, true, /*Print to screen*/, true, /*Print to log*/ );**
+1. GLS_LOG(WorldContext, LogTemp, Warning, TEXT("An error occurred: %s"), *ErrorMessage);
+2. UGLSSubsystem::PrintStringToGLS(WorldContextObject, TEXT("Some message here"), TEXT("MyCustomCategory"), EGLSLogType::Display, true, /*Print to screen*/, true, /*Print to log*/ );
 
 [For more details, visit our dev blog](https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
 
