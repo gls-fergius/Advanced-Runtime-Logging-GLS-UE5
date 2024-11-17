@@ -28,10 +28,10 @@ Follow these steps to install the demo plugin:
 (Ensure the folder structure matches this path in your Unreal Engine installation directory.)
 Attention, the plugin must be placed in the engine, not in your project. If you place it in the project, not in the engine, you will not be able to run the project, because the plugin is distributed without the source code.
 
-4. Open the Unreal Editor.
-Go to Edit -> Plugins.
-Locate GameLogsSystemDemo in the list and enable it.
-Restart the editor if prompted.
+4. Attention: You need to update the engine to the latest stable version. It will not work with preview versions.
+
+5. Open the Unreal Editor.
+Go to Edit -> Plugins. Locate "Game Logs System Demo (GLS)" in the list and enable it. Restart the editor.
 
 # Usage Examples
 The GLS plugin provides several C++ macros and functions to streamline logging with tags, categories, and verbosity settings.
