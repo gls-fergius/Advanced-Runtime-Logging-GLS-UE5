@@ -22,7 +22,7 @@ Follow these steps to install the demo plugin:
 
 1. Select the appropriate branch for your Unreal Engine version (e.g., 5.2, 5.3, 5.4, or 5.5).
 
-2. Download or clone the repository to your local machine.
+2. Clone the repository to your local machine. Attention: Please clone the repository instead of downloading the ZIP archive. If you download the archive, the plugin will not work because the compiled libraries will be missing.
 
 3. Copy the plugin files to the following directory: **\Engine\Plugins\Marketplace\GameLogsSystemDemo**
 (Ensure the folder structure matches this path in your Unreal Engine installation directory.)
