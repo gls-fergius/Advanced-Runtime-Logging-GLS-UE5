@@ -44,6 +44,13 @@ Here are some examples:
 
 [For more details, visit our dev blog](https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
 
+# Quick Start Guide
+1. Configure necessary settings in Project Settings -> Plugins -> Game Logs System (GLS) Demo.
+2. You can set up key bindings to open the GLS log overlay during runtime.
+3. To open the GLS overlay in the editor or during gameplay, press and hold Alt + Shift + G.  
+4. To open the overlay on a mobile device, press and hold two fingers on an empty area of the screen.
+5. To open the overlay on a console, press and hold the Gamepad Special Right button.  
+
 # License
 This plugin is provided for evaluation purposes only. The GLS plugin distributed without the source code.
 
