@@ -33,6 +33,17 @@ Go to Edit -> Plugins.
 Locate GameLogsSystemDemo in the list and enable it.
 Restart the editor if prompted.
 
+# Usage Examples
+The GLS plugin provides several C++ macros and functions to streamline logging with tags, categories, and verbosity settings.
+Using GLS_LOG macros from GLS offers several advantages over the standard UE_LOG:
+GLS_LOG supports intelligent log filtering by categories, classes, objects, and tags.
+Allows for catching logs in shipping or distribution applications.
+Here are some examples:
+**1. GLS_LOG(WorldContext, LogTemp, Warning, TEXT("An error occurred: %s"), *ErrorMessage);
+2. UGLSSubsystem::PrintStringToGLS(WorldContextObject, TEXT("Some message here"), TEXT("MyCustomCategory"), EGLSLogType::Display, true, /*Print to screen*/, true, /*Print to log*/ );**
+
+[For more details, visit our dev blog](https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
+
 # License
 This plugin is provided for evaluation purposes only. The GLS plugin distributed without the source code.
 
