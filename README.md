@@ -29,7 +29,7 @@ Attention, the plugin must be placed in the engine, not in your project. If you 
 4. Attention: You need to update the engine to the latest stable version. It will not work with preview versions.
 
 5. Open the Unreal Editor.
-Go to Edit -> Plugins. Locate "Game Logs System (GLS) Demo" in the list and enable it. Restart the editor.
+Go to Edit -> Plugins. Locate "Game Logs System (GLS)" in the list and enable it. Restart the editor.
 
 # Game Logs System (GLS) full version
 [Fab marketplace link](https://fab.com/s/43bbed079742)
@@ -46,7 +46,7 @@ Full Version of GLS is available for all platforms, supports independent compila
 This plugin is provided for evaluation purposes only. The GLS plugin distributed without the source code.
 
 # Support
-[Fab] https://fab.com/s/43bbed079742
+[Documentation] (https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
 [gamelogssystem@gmail.com](gamelogssystem@gmail.com)
 
 # Product stage
