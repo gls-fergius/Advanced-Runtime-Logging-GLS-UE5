@@ -37,7 +37,7 @@ Go to Edit -> Plugins. Locate "Game Logs System (GLS)" in the list and enable it
 Full Version of GLS is available for all platforms, supports independent compilation, has source code and has no usage restrictions.
 
 # Quick Start Guide
-1. Start PIE or built game.
+1. Enable the GLS plugin and start PIE or built game.
 3. To open the GLS overlay in the editor or during gameplay, press and hold Alt + Shift + G.  
 4. To open the overlay on a mobile device, press and hold two fingers on an empty area of the screen.
 5. To open the overlay on a console, press and hold the Gamepad Special Right button.  
@@ -46,7 +46,7 @@ Full Version of GLS is available for all platforms, supports independent compila
 This plugin is provided for evaluation purposes only. The GLS plugin distributed without the source code.
 
 # Support
-[Documentation] (https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
+[Documentation](https://dev.epicgames.com/community/learning/tutorials/m36v/unreal-engine-fab-game-logs-system-gls-real-time-log-management-for-shipping-builds-on-mobile-and-console-platforms)
 [gamelogssystem@gmail.com](gamelogssystem@gmail.com)
 
 # Product stage
