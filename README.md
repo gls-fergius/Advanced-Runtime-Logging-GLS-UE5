@@ -39,10 +39,12 @@ Go to Edit -> Plugins. Locate "Game Logs System (GLS)" in the list and enable it
 Full Version of GLS is available for all platforms, supports independent compilation, has source code and has no usage restrictions.
 
 # Quick Start Guide
-1. Enable the GLS plugin and start PIE or built game.
-3. To open the GLS overlay in the editor or during gameplay, press and hold Alt + Shift + G.  
-4. To open the overlay on a mobile device, press and hold two fingers on an empty area of the screen.
-5. To open the overlay on a console, press and hold the Gamepad Special Right button.  
+A simple step-by-step to get started with GLS:
+
+1. Unzip and copy the plugin files to Engine _(See the introduction section)._
+2. Enable the "GameLogsSystem" plugin in your project.
+3. Open the GLS overlay in-game or in the editor by pressing ALT + SHIFT + G.
+4. Start using the GLS_LOG macro in C++ or the PrintStringToGLS function in Blueprints (optional).
 
 # License
 This plugin is provided for evaluation purposes only. The GLS plugin distributed without the source code.
