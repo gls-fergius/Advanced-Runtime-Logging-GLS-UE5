@@ -17,12 +17,10 @@ NOTE: After purchasing the full version, please manually delete the demo version
 
 You can also try the [example demo build](https://drive.google.com/drive/folders/1khDViXzgYJkmTye6xRB3smmi_8WPFli0?usp=sharing) in the assembled build together with the Lyra Game project.
 
-You can also [download](https://drive.google.com/drive/folders/1R4LvuNhNuIRO7wzkGty7Yvl-XrLf38ig?usp=sharing) the demo plugin from Google Drive instead of cloning it.
-
 # Installation
 Follow these steps to install the demo plugin to Engine:
 
-1. Clone the repository to your local machine. Attention: Please clone the repository instead of downloading the ZIP archive. If you download the archive, the plugin will not work because the compiled libraries will be missing.
+1. [Download](https://drive.google.com/drive/folders/1R4LvuNhNuIRO7wzkGty7Yvl-XrLf38ig?usp=sharing) the demo plugin from Google Drive instead of cloning it or clone the repository to your local machine. Attention: Please clone the repository instead of downloading the ZIP archive. If you download the archive, the plugin will not work because the compiled libraries will be missing.
 
 2. Select the appropriate zip for your Unreal Engine version (e.g., 5.2, 5.3, 5.4, or 5.5).
 
