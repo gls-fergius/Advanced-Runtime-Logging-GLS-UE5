@@ -15,6 +15,8 @@ Important: The demo version of the GLS plugin is compatible only with the engine
 
 NOTE: After purchasing the full version, please manually delete the demo version from the engine folder. The Fab version and the demo version cannot exist in the engine at the same time.
 
+You can also try the demo in the assembled build together with the Lira game project. [Download WIN64 Android](https://drive.google.com/drive/folders/1khDViXzgYJkmTye6xRB3smmi_8WPFli0?usp=sharing)
+
 # Installation
 Follow these steps to install the demo plugin to Engine:
 
