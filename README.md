@@ -41,7 +41,7 @@ Full Version of GLS is available for all platforms, supports independent compila
 # Quick Start Guide
 A simple step-by-step to get started with GLS:
 
-1. Unzip and copy the plugin files to Engine _(See the introduction section)._
+1. Unzip and copy the plugin files to Engine _(See the Installation section)._
 2. Enable the "GameLogsSystem" plugin in your project.
 3. Open the GLS overlay in-game or in the editor by pressing ALT + SHIFT + G.
 4. Start using the GLS_LOG macro in C++ or the PrintStringToGLS function in Blueprints (optional).
