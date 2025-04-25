@@ -9,6 +9,8 @@ The plugin is designed with an emphasis on high performance and ease of use, des
 
 The plugin is suitable for both small indie games and large AAA studios with a high load.
 
+![Demo Image](https://img.edc-cdn.net/imgproxy/AjHV0IxSU4SgM_Vrzrs5u1VPZylJksKq-jYEJmMMzeo/filename:youtube_video_image.png/resizing_type:fit/width:1400/height:922/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9pbWFnZXMvZDNlMjY5MWUtZDg0NS00OTZmLWFlNmMtYWJjNzJhZDgwYThiL3lvdXR1YmVfdmlkZW9faW1hZ2UucG5n)
+
 # Description of the Demo
 The demo version of GLS is intended for use on Windows, available only in development and debug builds. The source code is not available, and it cannot be compiled independently. The demo version works in the editor and in built games.
 Important: The demo version of the GLS plugin is compatible only with the engine downloaded from the Epic Games Launcher. The plugin will not work with a version of the engine compiled from source.
