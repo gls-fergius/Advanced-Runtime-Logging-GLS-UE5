@@ -17,6 +17,8 @@ NOTE: After purchasing the full version, please manually delete the demo version
 
 You can also try the demo in the assembled build together with the Lira game project. [Download WIN64 Android](https://drive.google.com/drive/folders/1khDViXzgYJkmTye6xRB3smmi_8WPFli0?usp=sharing)
 
+You can also download the demo plugin from Google Drive instead of cloning it. [Download Demo Plugin from Google Drive](https://drive.google.com/drive/folders/1R4LvuNhNuIRO7wzkGty7Yvl-XrLf38ig?usp=sharing)
+
 # Installation
 Follow these steps to install the demo plugin to Engine:
 
