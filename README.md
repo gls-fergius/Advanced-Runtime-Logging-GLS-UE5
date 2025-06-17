@@ -1,5 +1,5 @@
 # Game Logs System (GLS) Demo
-![Unreal Engine Version](https://img.shields.io/badge/UE-5.2%20%7C%205.3%20%7C%205.4%20%7C%205.5-blue)
+![Unreal Engine Version](https://img.shields.io/badge/UE-5.2%20%7C%205.3%20%7C%205.4%20%7C%205.5%20%7C%205.6-blue)
 
 # Description
 **Game Logs System (GLS)** is a plugin for Unreal Engine, designed for programmers and testers to help analyze logs both in the editor and at runtime during program execution on any device and platform. GLS allows you to collect logs from both the game and the engine, filter them by categories, classes, objects or custom tags.
